@@ -1,0 +1,26 @@
+2023-09-14 08:18:24.487 | DEBUG    | logs.settings:<module>:14 - 服务器Start.
+2023-09-14 08:42:27.586 | DEBUG    | logs.settings:<module>:14 - 服务器Start.
+2023-09-14 08:46:17.047 | DEBUG    | logs.settings:<module>:14 - 服务器Start.
+2023-09-14 09:21:02.280 | DEBUG    | logs.settings:<module>:14 - 服务器Start.
+2023-09-14 09:27:03.214 | DEBUG    | logs.settings:<module>:14 - 服务器Start.
+2023-09-14 09:48:04.073 | INFO     | views.kafka.api.api:Topic_data:51 - NoBrokersAvailable
+2023-09-14 09:54:53.581 | DEBUG    | logs.settings:<module>:14 - 服务器Start.
+2023-09-14 12:33:05.026 | INFO     | views.kafka.api.api:Topic_data:51 - Offset must be >= 0
+2023-09-14 12:34:16.102 | DEBUG    | logs.settings:<module>:14 - 服务器Start.
+2023-09-14 12:46:14.410 | INFO     | views.kafka.api.api:Topic_data:51 - Offset must be >= 0
+2023-09-14 12:58:54.326 | DEBUG    | logs.settings:<module>:14 - 服务器Start.
+2023-09-14 12:59:37.659 | DEBUG    | logs.settings:<module>:14 - 服务器Start.
+2023-09-14 13:00:25.561 | DEBUG    | logs.settings:<module>:14 - 服务器Start.
+2023-09-14 13:06:26.038 | INFO     | views.kafka.api.api:Topic_data:55 - submit expected at least 1 positional argument, got 0
+2023-09-14 13:06:31.025 | INFO     | views.kafka.api.api:Topic_data:55 - submit expected at least 1 positional argument, got 0
+2023-09-14 13:06:45.640 | DEBUG    | logs.settings:<module>:14 - 服务器Start.
+2023-09-14 13:10:09.329 | DEBUG    | logs.settings:<module>:14 - 服务器Start.
+2023-09-14 13:22:19.160 | DEBUG    | logs.settings:<module>:14 - 服务器Start.
+2023-09-14 13:48:49.936 | DEBUG    | logs.settings:<module>:14 - 服务器Start.
+2023-09-14 15:17:04.368 | DEBUG    | logs.settings:<module>:14 - 服务器Start.
+2023-09-14 15:17:28.832 | DEBUG    | logs.settings:<module>:14 - 服务器Start.
+2023-09-14 15:18:12.895 | DEBUG    | logs.settings:<module>:14 - 服务器Start.
+2023-09-14 20:03:32.978 | DEBUG    | logs.settings:<module>:14 - 服务器Start.
+2023-09-14 20:32:38.895 | DEBUG    | logs.settings:<module>:14 - 服务器Start.
+2023-09-14 20:48:21.943 | DEBUG    | logs.settings:<module>:14 - 服务器Start.
+2023-09-14 21:33:15.243 | DEBUG    | logs.settings:<module>:14 - 服务器Start.

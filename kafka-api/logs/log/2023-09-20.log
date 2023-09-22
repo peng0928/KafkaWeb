@@ -1,0 +1,29 @@
+2023-09-20 08:37:36.415 | DEBUG    | logs.settings:<module>:14 - 服务器Start.
+2023-09-20 08:38:03.787 | INFO     | views.kafka.api.api:Topic_data:58 - decoding str is not supported
+2023-09-20 08:38:05.369 | INFO     | views.kafka.api.api:Topic_data:58 - decoding str is not supported
+2023-09-20 08:38:10.480 | INFO     | views.kafka.api.api:Topic_data:58 - decoding str is not supported
+2023-09-20 08:46:55.197 | DEBUG    | logs.settings:<module>:14 - 服务器Start.
+2023-09-20 08:47:14.729 | INFO     | views.kafka.api.api:Topic_model:146 - decoding str is not supported
+2023-09-20 08:47:18.559 | INFO     | views.kafka.api.api:Topic_model:146 - decoding str is not supported
+2023-09-20 08:47:39.634 | DEBUG    | logs.settings:<module>:14 - 服务器Start.
+2023-09-20 08:47:46.357 | INFO     | views.kafka.api.api:Topic_search:109 - decoding str is not supported
+2023-09-20 08:47:47.969 | INFO     | views.kafka.api.api:Topic_search:109 - decoding str is not supported
+2023-09-20 08:47:48.881 | INFO     | views.kafka.api.api:Topic_search:109 - decoding str is not supported
+2023-09-20 08:47:50.178 | INFO     | views.kafka.api.api:Topic_search:109 - decoding str is not supported
+2023-09-20 08:47:52.850 | INFO     | views.kafka.api.api:Topic_search:109 - decoding str is not supported
+2023-09-20 08:48:01.921 | DEBUG    | logs.settings:<module>:14 - 服务器Start.
+2023-09-20 08:50:29.940 | DEBUG    | logs.settings:<module>:14 - 服务器Start.
+2023-09-20 08:52:14.284 | DEBUG    | logs.settings:<module>:14 - 服务器Start.
+2023-09-20 08:53:50.554 | DEBUG    | logs.settings:<module>:14 - 服务器Start.
+2023-09-20 08:56:10.798 | DEBUG    | logs.settings:<module>:14 - 服务器Start.
+2023-09-20 08:58:04.435 | DEBUG    | logs.settings:<module>:14 - 服务器Start.
+2023-09-20 10:59:47.472 | INFO     | views.kafka.api.api:Topic_List:25 - NoBrokersAvailable
+2023-09-20 12:31:00.044 | INFO     | views.kafka.api.api:Topic_data:57 - localhost:27017: [WinError 10061] 由于目标计算机积极拒绝，无法连接。, Timeout: 30s, Topology Description: <TopologyDescription id: 650a439cc396866ea6cabb57, topology_type: Single, servers: [<ServerDescription ('localhost', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('localhost:27017: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')>]>
+2023-09-20 12:31:30.237 | INFO     | views.kafka.api.api:Topic_data:57 - localhost:27017: [WinError 10061] 由于目标计算机积极拒绝，无法连接。, Timeout: 30s, Topology Description: <TopologyDescription id: 650a439cc396866ea6cabb57, topology_type: Single, servers: [<ServerDescription ('localhost', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('localhost:27017: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')>]>
+2023-09-20 13:54:07.902 | DEBUG    | logs.settings:<module>:14 - 服务器Start.
+2023-09-20 13:54:30.529 | DEBUG    | logs.settings:<module>:14 - 服务器Start.
+2023-09-20 13:55:29.928 | DEBUG    | logs.settings:<module>:14 - 服务器Start.
+2023-09-20 13:56:27.774 | DEBUG    | logs.settings:<module>:14 - 服务器Start.
+2023-09-20 14:10:49.499 | INFO     | views.kafka.api.api:Topic_List:25 - NoBrokersAvailable
+2023-09-20 14:14:29.483 | DEBUG    | logs.settings:<module>:14 - 服务器Start.
+2023-09-20 15:41:55.600 | INFO     | views.kafka.api.api:Topic_List:25 - NoBrokersAvailable

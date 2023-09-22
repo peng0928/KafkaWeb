@@ -1,0 +1,36 @@
+2023-09-13 22:26:13.117 | DEBUG    | logs.settings:<module>:14 - 服务器Start.
+2023-09-13 22:26:20.862 | INFO     | views.kafka.api.api:Topic_data:49 - Offset must be >= 0
+2023-09-13 22:26:48.028 | INFO     | views.kafka.api.api:Topic_data:49 - Offset must be >= 0
+2023-09-13 22:28:43.370 | INFO     | views.kafka.api.api:Topic_data:49 - NoBrokersAvailable
+2023-09-13 22:28:48.055 | INFO     | views.kafka.api.api:Topic_data:49 - NoBrokersAvailable
+2023-09-13 22:29:08.602 | INFO     | views.kafka.api.api:Topic_data:49 - NoBrokersAvailable
+2023-09-13 22:29:13.300 | INFO     | views.kafka.api.api:Topic_data:49 - NoBrokersAvailable
+2023-09-13 22:29:19.373 | INFO     | views.kafka.api.api:Topic_data:49 - NoBrokersAvailable
+2023-09-13 22:29:23.289 | INFO     | views.kafka.api.api:Topic_data:49 - NoBrokersAvailable
+2023-09-13 22:30:31.150 | INFO     | views.kafka.api.api:Topic_data:49 - Broker id -1 not in current metadata
+2023-09-13 22:31:31.946 | DEBUG    | logs.settings:<module>:14 - 服务器Start.
+2023-09-13 22:32:16.993 | DEBUG    | logs.settings:<module>:14 - 服务器Start.
+2023-09-13 22:32:36.749 | DEBUG    | logs.settings:<module>:14 - 服务器Start.
+2023-09-13 22:33:44.676 | DEBUG    | logs.settings:<module>:14 - 服务器Start.
+2023-09-13 22:34:11.315 | DEBUG    | logs.settings:<module>:14 - 服务器Start.
+2023-09-13 22:34:25.205 | INFO     | views.kafka.api.api:Topic_data:51 - decoding to str: need a bytes-like object, NoneType found
+2023-09-13 22:34:29.923 | INFO     | views.kafka.api.api:Topic_data:51 - decoding to str: need a bytes-like object, NoneType found
+2023-09-13 22:34:35.920 | INFO     | views.kafka.api.api:Topic_data:51 - decoding to str: need a bytes-like object, NoneType found
+2023-09-13 22:34:40.626 | INFO     | views.kafka.api.api:Topic_data:51 - decoding to str: need a bytes-like object, NoneType found
+2023-09-13 22:34:46.209 | INFO     | views.kafka.api.api:Topic_data:51 - decoding to str: need a bytes-like object, NoneType found
+2023-09-13 22:34:52.512 | INFO     | views.kafka.api.api:Topic_data:51 - NoBrokersAvailable
+2023-09-13 22:35:42.741 | DEBUG    | logs.settings:<module>:14 - 服务器Start.
+2023-09-13 22:35:44.884 | INFO     | views.kafka.api.api:Topic_data:51 - decoding to str: need a bytes-like object, NoneType found
+2023-09-13 22:35:52.934 | INFO     | views.kafka.api.api:Topic_data:51 - decoding to str: need a bytes-like object, NoneType found
+2023-09-13 22:37:41.306 | DEBUG    | logs.settings:<module>:14 - 服务器Start.
+2023-09-13 22:39:33.133 | DEBUG    | logs.settings:<module>:14 - 服务器Start.
+2023-09-13 22:50:34.992 | DEBUG    | logs.settings:<module>:14 - 服务器Start.
+2023-09-13 22:53:51.887 | DEBUG    | logs.settings:<module>:14 - 服务器Start.
+2023-09-13 22:56:46.275 | DEBUG    | logs.settings:<module>:14 - 服务器Start.
+2023-09-13 22:57:41.302 | DEBUG    | logs.settings:<module>:14 - 服务器Start.
+2023-09-13 22:59:13.397 | DEBUG    | logs.settings:<module>:14 - 服务器Start.
+2023-09-13 23:01:04.794 | DEBUG    | logs.settings:<module>:14 - 服务器Start.
+2023-09-13 23:02:04.174 | DEBUG    | logs.settings:<module>:14 - 服务器Start.
+2023-09-13 23:04:41.443 | DEBUG    | logs.settings:<module>:14 - 服务器Start.
+2023-09-13 23:07:33.469 | DEBUG    | logs.settings:<module>:14 - 服务器Start.
+2023-09-13 23:08:43.059 | DEBUG    | logs.settings:<module>:14 - 服务器Start.

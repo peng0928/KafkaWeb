@@ -1,0 +1,50 @@
+2023-09-15 16:20:40.104 | DEBUG    | logs.settings:<module>:14 - 服务器Start.
+2023-09-15 16:21:11.894 | DEBUG    | logs.settings:<module>:14 - 服务器Start.
+2023-09-15 16:23:29.689 | INFO     | views.kafka.api.api:Topic_model:139 - cannot use a string pattern on a bytes-like object
+2023-09-15 16:23:42.578 | INFO     | views.kafka.api.api:Topic_model:139 - cannot use a string pattern on a bytes-like object
+2023-09-15 16:23:54.103 | INFO     | views.kafka.api.api:Topic_model:139 - cannot use a string pattern on a bytes-like object
+2023-09-15 16:23:57.776 | INFO     | views.kafka.api.api:Topic_model:139 - cannot use a string pattern on a bytes-like object
+2023-09-15 16:24:05.954 | INFO     | views.kafka.api.api:Topic_model:139 - cannot use a string pattern on a bytes-like object
+2023-09-15 16:24:08.255 | INFO     | views.kafka.api.api:Topic_model:139 - cannot use a string pattern on a bytes-like object
+2023-09-15 16:31:43.829 | INFO     | views.kafka.api.api:Topic_model:139 - cannot use a string pattern on a bytes-like object
+2023-09-15 16:36:12.501 | DEBUG    | logs.settings:<module>:14 - 服务器Start.
+2023-09-15 16:36:17.246 | INFO     | views.kafka.api.api:Topic_model:141 - cannot use a string pattern on a bytes-like object
+2023-09-15 16:37:40.977 | DEBUG    | logs.settings:<module>:14 - 服务器Start.
+2023-09-15 16:40:37.001 | DEBUG    | logs.settings:<module>:14 - 服务器Start.
+2023-09-15 16:42:15.931 | DEBUG    | logs.settings:<module>:14 - 服务器Start.
+2023-09-15 16:43:16.897 | DEBUG    | logs.settings:<module>:14 - 服务器Start.
+2023-09-15 16:43:43.175 | DEBUG    | logs.settings:<module>:14 - 服务器Start.
+2023-09-15 16:44:15.537 | DEBUG    | logs.settings:<module>:14 - 服务器Start.
+2023-09-15 16:44:36.796 | DEBUG    | logs.settings:<module>:14 - 服务器Start.
+2023-09-15 16:45:50.163 | DEBUG    | logs.settings:<module>:14 - 服务器Start.
+2023-09-15 16:50:33.819 | DEBUG    | logs.settings:<module>:14 - 服务器Start.
+2023-09-15 16:51:43.629 | DEBUG    | logs.settings:<module>:14 - 服务器Start.
+2023-09-15 16:52:09.309 | DEBUG    | logs.settings:<module>:14 - 服务器Start.
+2023-09-15 16:52:15.099 | INFO     | views.kafka.api.api:Topic_model:141 - cannot use a string pattern on a bytes-like object
+2023-09-15 16:52:17.351 | INFO     | views.kafka.api.api:Topic_model:141 - cannot use a string pattern on a bytes-like object
+2023-09-15 16:52:37.369 | DEBUG    | logs.settings:<module>:14 - 服务器Start.
+2023-09-15 16:52:41.732 | INFO     | views.kafka.api.api:Topic_data:65 - 'utf-8' codec can't decode byte 0x8b in position 1: invalid start byte
+2023-09-15 16:53:56.900 | DEBUG    | logs.settings:<module>:14 - 服务器Start.
+2023-09-15 16:53:59.560 | INFO     | views.kafka.api.api:Topic_data:65 - 'utf-8' codec can't decode byte 0x8b in position 1: invalid start byte
+2023-09-15 16:54:02.567 | INFO     | views.kafka.api.api:Topic_data:65 - 'utf-8' codec can't decode byte 0x8b in position 1: invalid start byte
+2023-09-15 16:54:16.853 | DEBUG    | logs.settings:<module>:14 - 服务器Start.
+2023-09-15 16:54:19.502 | INFO     | views.kafka.api.api:Topic_data:65 - 'utf-8' codec can't decode byte 0x8b in position 1: invalid start byte
+2023-09-15 16:54:45.974 | DEBUG    | logs.settings:<module>:14 - 服务器Start.
+2023-09-15 16:55:13.671 | DEBUG    | logs.settings:<module>:14 - 服务器Start.
+2023-09-15 16:55:19.553 | INFO     | views.kafka.api.api:Topic_model:141 - cannot use a string pattern on a bytes-like object
+2023-09-15 16:55:22.124 | INFO     | views.kafka.api.api:Topic_model:141 - cannot use a string pattern on a bytes-like object
+2023-09-15 16:55:35.413 | DEBUG    | logs.settings:<module>:14 - 服务器Start.
+2023-09-15 16:56:46.864 | DEBUG    | logs.settings:<module>:14 - 服务器Start.
+2023-09-15 16:58:20.666 | DEBUG    | logs.settings:<module>:14 - 服务器Start.
+2023-09-15 17:00:19.701 | DEBUG    | logs.settings:<module>:14 - 服务器Start.
+2023-09-15 17:02:38.887 | DEBUG    | logs.settings:<module>:14 - 服务器Start.
+2023-09-15 17:05:11.327 | DEBUG    | logs.settings:<module>:14 - 服务器Start.
+2023-09-15 17:07:18.743 | DEBUG    | logs.settings:<module>:14 - 服务器Start.
+2023-09-15 17:09:29.240 | DEBUG    | logs.settings:<module>:14 - 服务器Start.
+2023-09-15 19:36:36.402 | DEBUG    | logs.settings:<module>:14 - 服务器Start.
+2023-09-15 19:38:40.517 | DEBUG    | logs.settings:<module>:14 - 服务器Start.
+2023-09-15 19:41:06.996 | DEBUG    | logs.settings:<module>:14 - 服务器Start.
+2023-09-15 19:46:23.707 | DEBUG    | logs.settings:<module>:14 - 服务器Start.
+2023-09-15 23:38:57.002 | DEBUG    | logs.settings:<module>:14 - 服务器Start.
+2023-09-15 23:42:43.535 | DEBUG    | logs.settings:<module>:14 - 服务器Start.
+2023-09-15 23:44:07.887 | DEBUG    | logs.settings:<module>:14 - 服务器Start.

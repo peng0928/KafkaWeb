@@ -1,0 +1,5 @@
+2023-09-17 20:54:45.373 | DEBUG    | logs.settings:<module>:14 - 服务器Start.
+2023-09-17 20:58:08.143 | INFO     | views.kafka.api.api:Consumer_test:205 - NoBrokersAvailable
+2023-09-17 20:58:42.206 | INFO     | views.kafka.api.api:Consumer_test:205 - NoBrokersAvailable
+2023-09-17 20:58:47.013 | INFO     | views.kafka.api.api:Consumer_test:205 - NoBrokersAvailable
+2023-09-17 20:59:14.078 | INFO     | views.kafka.api.api:Consumer_test:205 - NoBrokersAvailable

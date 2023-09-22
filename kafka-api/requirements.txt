@@ -1,0 +1,5 @@
+fastapi==0.103.1
+loguru==0.6.0
+pymongo==4.4.0
+PyMySQL==1.0.3
+uvicorn==0.23.2

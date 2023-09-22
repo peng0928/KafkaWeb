@@ -1,0 +1,547 @@
+2023-09-18 08:22:25.973 | DEBUG    | logs.settings:<module>:14 - 服务器Start.
+2023-09-18 08:28:31.478 | DEBUG    | logs.settings:<module>:14 - 服务器Start.
+2023-09-18 08:37:29.673 | INFO     | views.kafka.api.api:Topic_search:107 - Regular expression is invalid: missing terminating ] for character class, full error: {'ok': 0.0, 'errmsg': 'Regular expression is invalid: missing terminating ] for character class', 'code': 51091, 'codeName': 'Location51091'}
+2023-09-18 09:18:20.606 | DEBUG    | logs.settings:<module>:14 - 服务器Start.
+2023-09-18 09:22:36.184 | DEBUG    | logs.settings:<module>:14 - 服务器Start.
+2023-09-18 09:37:42.356 | INFO     | views.kafka.api.api:Topic_model:146 - cannot use a string pattern on a bytes-like object
+2023-09-18 09:37:49.796 | INFO     | views.kafka.api.api:Topic_model:146 - cannot use a string pattern on a bytes-like object
+2023-09-18 09:37:52.873 | INFO     | views.kafka.api.api:Topic_model:146 - cannot use a string pattern on a bytes-like object
+2023-09-18 09:38:05.864 | INFO     | views.kafka.api.api:Topic_model:146 - cannot use a string pattern on a bytes-like object
+2023-09-18 09:38:23.529 | INFO     | views.kafka.api.api:Topic_model:146 - cannot use a string pattern on a bytes-like object
+2023-09-18 09:47:56.061 | INFO     | views.kafka.api.api:Topic_model:146 - cannot use a string pattern on a bytes-like object
+2023-09-18 09:48:07.989 | INFO     | views.kafka.api.api:Topic_model:146 - cannot use a string pattern on a bytes-like object
+2023-09-18 09:48:15.833 | INFO     | views.kafka.api.api:Topic_model:146 - cannot use a string pattern on a bytes-like object
+2023-09-18 09:48:22.222 | INFO     | views.kafka.api.api:Topic_model:146 - cannot use a string pattern on a bytes-like object
+2023-09-18 10:04:37.830 | INFO     | views.kafka.api.api:Topic_model:146 - cannot use a string pattern on a bytes-like object
+2023-09-18 10:05:05.575 | INFO     | views.kafka.api.api:Topic_model:146 - cannot use a string pattern on a bytes-like object
+2023-09-18 10:05:09.016 | INFO     | views.kafka.api.api:Topic_model:146 - cannot use a string pattern on a bytes-like object
+2023-09-18 10:05:10.842 | INFO     | views.kafka.api.api:Topic_model:146 - cannot use a string pattern on a bytes-like object
+2023-09-18 10:05:45.124 | INFO     | views.kafka.api.api:Topic_model:146 - cannot use a string pattern on a bytes-like object
+2023-09-18 10:07:12.415 | INFO     | views.kafka.api.api:Topic_model:146 - cannot use a string pattern on a bytes-like object
+2023-09-18 10:07:28.283 | INFO     | views.kafka.api.api:Topic_model:146 - cannot use a string pattern on a bytes-like object
+2023-09-18 10:08:24.728 | DEBUG    | logs.settings:<module>:14 - 服务器Start.
+2023-09-18 10:08:27.407 | INFO     | views.kafka.api.api:Topic_model:147 - cannot use a string pattern on a bytes-like object
+2023-09-18 10:09:06.896 | DEBUG    | logs.settings:<module>:14 - 服务器Start.
+2023-09-18 10:09:09.600 | INFO     | views.kafka.api.api:Topic_model:148 - cannot use a string pattern on a bytes-like object
+2023-09-18 10:09:28.021 | DEBUG    | logs.settings:<module>:14 - 服务器Start.
+2023-09-18 10:09:34.401 | INFO     | views.kafka.api.api:Topic_model:149 - cannot use a string pattern on a bytes-like object
+2023-09-18 10:09:51.771 | DEBUG    | logs.settings:<module>:14 - 服务器Start.
+2023-09-18 10:18:41.207 | DEBUG    | logs.settings:<module>:14 - 服务器Start.
+2023-09-18 10:18:49.603 | INFO     | views.kafka.api.api:Topic_model:149 - cannot use a string pattern on a bytes-like object
+2023-09-18 10:19:18.996 | DEBUG    | logs.settings:<module>:14 - 服务器Start.
+2023-09-18 10:19:21.508 | INFO     | views.kafka.api.api:Topic_model:150 - 'utf-8' codec can't decode byte 0x87 in position 1: invalid start byte
+2023-09-18 10:19:27.316 | INFO     | views.kafka.api.api:Topic_model:150 - 'utf-8' codec can't decode byte 0x87 in position 1: invalid start byte
+2023-09-18 10:19:58.336 | DEBUG    | logs.settings:<module>:14 - 服务器Start.
+2023-09-18 10:20:00.911 | INFO     | views.kafka.api.api:Topic_model:145 - 'utf-8' codec can't decode byte 0x87 in position 1: invalid start byte
+2023-09-18 10:20:37.965 | DEBUG    | logs.settings:<module>:14 - 服务器Start.
+2023-09-18 10:20:42.361 | INFO     | views.kafka.api.api:Topic_model:145 - 'utf-8' codec can't decode byte 0x87 in position 1: invalid start byte
+2023-09-18 10:20:56.246 | DEBUG    | logs.settings:<module>:14 - 服务器Start.
+2023-09-18 10:21:40.876 | DEBUG    | logs.settings:<module>:14 - 服务器Start.
+2023-09-18 10:21:57.409 | DEBUG    | logs.settings:<module>:14 - 服务器Start.
+2023-09-18 10:22:55.649 | DEBUG    | logs.settings:<module>:14 - 服务器Start.
+2023-09-18 10:23:12.332 | DEBUG    | logs.settings:<module>:14 - 服务器Start.
+2023-09-18 10:48:15.480 | DEBUG    | logs.settings:<module>:14 - 服务器Start.
+2023-09-18 10:48:32.058 | INFO     | views.kafka.api.api:Topic_model:144 - 'str' object has no attribute 'decode'
+2023-09-18 10:48:47.960 | DEBUG    | logs.settings:<module>:14 - 服务器Start.
+2023-09-18 10:57:51.542 | DEBUG    | logs.settings:<module>:14 - 服务器Start.
+2023-09-18 10:58:21.269 | DEBUG    | logs.settings:<module>:14 - 服务器Start.
+2023-09-18 10:59:57.763 | DEBUG    | logs.settings:<module>:14 - 服务器Start.
+2023-09-18 11:01:03.920 | DEBUG    | logs.settings:<module>:14 - 服务器Start.
+2023-09-18 11:02:35.540 | DEBUG    | logs.settings:<module>:14 - 服务器Start.
+2023-09-18 11:03:38.985 | DEBUG    | logs.settings:<module>:14 - 服务器Start.
+2023-09-18 11:04:10.471 | DEBUG    | logs.settings:<module>:14 - 服务器Start.
+2023-09-18 11:05:25.644 | DEBUG    | logs.settings:<module>:14 - 服务器Start.
+2023-09-18 11:06:02.629 | DEBUG    | logs.settings:<module>:14 - 服务器Start.
+2023-09-18 11:08:24.629 | DEBUG    | logs.settings:<module>:14 - 服务器Start.
+2023-09-18 11:08:59.779 | DEBUG    | logs.settings:<module>:14 - 服务器Start.
+2023-09-18 11:09:27.021 | DEBUG    | logs.settings:<module>:14 - 服务器Start.
+2023-09-18 11:10:18.929 | DEBUG    | logs.settings:<module>:14 - 服务器Start.
+2023-09-18 11:12:11.161 | DEBUG    | logs.settings:<module>:14 - 服务器Start.
+2023-09-18 11:12:56.942 | DEBUG    | logs.settings:<module>:14 - 服务器Start.
+2023-09-18 11:14:55.329 | DEBUG    | logs.settings:<module>:14 - 服务器Start.
+2023-09-18 11:15:51.627 | DEBUG    | logs.settings:<module>:14 - 服务器Start.
+2023-09-18 14:15:06.199 | DEBUG    | logs.settings:<module>:14 - 服务器Start.
+2023-09-18 14:15:06.262 | INFO     | extensions.mysqlApi:login:101 - [kafka_data]数据库成功连接
+2023-09-18 14:15:06.272 | INFO     | extensions.mysqlApi:login:101 - 数据成功插入: 0
+2023-09-18 14:17:38.248 | DEBUG    | logs.settings:<module>:14 - 服务器Start.
+2023-09-18 14:17:38.255 | INFO     | extensions.mysqlApi:login:101 - [kafka_data]数据库成功连接
+2023-09-18 14:18:09.116 | ERROR    | extensions.mysqlApi:wrapper:12 - (2006, "MySQL server has gone away (ConnectionAbortedError(10053, '你的主机中的软件中止了一个已建立的连接。', None, 10053, None))")
+2023-09-18 14:18:09.412 | ERROR    | extensions.mysqlApi:wrapper:12 - (1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'code":200,"nsr_sbh":"91130133MA0G2F417B","task_id":"102","create_time":"2023-09-\' at line 1')
+2023-09-18 14:18:09.475 | ERROR    | extensions.mysqlApi:wrapper:12 - (1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'code":200,"nsr_sbh":"91130133MA0G2F417B","task_id":"101","create_time":"2023-09-\' at line 1')
+2023-09-18 14:18:09.525 | ERROR    | extensions.mysqlApi:wrapper:12 - (1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'code":200,"nsr_sbh":"91130133MA0G2F417B","task_id":"100","create_time":"2023-09-\' at line 1')
+2023-09-18 14:18:09.546 | ERROR    | extensions.mysqlApi:wrapper:12 - (1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'code":200,"nsr_sbh":"91130133MA0G2F417B","task_id":"104","create_time":"2023-09-\' at line 1')
+2023-09-18 14:18:09.567 | ERROR    | extensions.mysqlApi:wrapper:12 - (1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'code":200,"nsr_sbh":"91130133MA0G2F417B","task_id":"102","create_time":"2023-09-\' at line 1')
+2023-09-18 14:18:09.579 | ERROR    | extensions.mysqlApi:wrapper:12 - (1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'code":200,"nsr_sbh":"91130133MA0G2F417B","task_id":"100","create_time":"2023-09-\' at line 1')
+2023-09-18 14:18:09.609 | ERROR    | extensions.mysqlApi:wrapper:12 - (1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'code":200,"nsr_sbh":"91130133MA0G2F417B","task_id":"100","create_time":"2023-09-\' at line 1')
+2023-09-18 14:18:09.624 | ERROR    | extensions.mysqlApi:wrapper:12 - (1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'code":200,"nsr_sbh":"91130133MA0G2F417B","task_id":"102","create_time":"2023-09-\' at line 1')
+2023-09-18 14:18:09.639 | ERROR    | extensions.mysqlApi:wrapper:12 - (1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'code":200,"nsr_sbh":"91130133MA0G2F417B","task_id":"104","create_time":"2023-09-\' at line 1')
+2023-09-18 14:18:09.653 | ERROR    | extensions.mysqlApi:wrapper:12 - (1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'code":200,"nsr_sbh":"91130133MA0G2F417B","task_id":"103","create_time":"2023-09-\' at line 1')
+2023-09-18 14:18:09.983 | ERROR    | extensions.mysqlApi:wrapper:12 - (1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'code":200,"nsr_sbh":"91130133MA0G2F417B","task_id":"902","create_time":"2023-09-\' at line 1')
+2023-09-18 14:18:10.014 | ERROR    | extensions.mysqlApi:wrapper:12 - (1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'code":200,"nsr_sbh":"91130133MA0G2F417B","task_id":"903","create_time":"2023-09-\' at line 1')
+2023-09-18 14:18:10.026 | ERROR    | extensions.mysqlApi:wrapper:12 - (1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'code":200,"nsr_sbh":"91130133MA0G2F417B","task_id":"901","create_time":"2023-09-\' at line 1')
+2023-09-18 14:18:10.038 | ERROR    | extensions.mysqlApi:wrapper:12 - (1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'code":200,"nsr_sbh":"91130133MA0G2F417B","task_id":"900","create_time":"2023-09-\' at line 1')
+2023-09-18 14:18:10.051 | ERROR    | extensions.mysqlApi:wrapper:12 - (1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'code":200,"nsr_sbh":"91130133MA0G2F417B","task_id":"904","create_time":"2023-09-\' at line 1')
+2023-09-18 14:18:10.068 | ERROR    | extensions.mysqlApi:wrapper:12 - (1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'code":200,"nsr_sbh":"91130133MA0G2F417B","task_id":"900","create_time":"2023-09-\' at line 1')
+2023-09-18 14:18:10.083 | ERROR    | extensions.mysqlApi:wrapper:12 - (1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'code":200,"nsr_sbh":"91130133MA0G2F417B","task_id":"903","create_time":"2023-09-\' at line 1')
+2023-09-18 14:18:10.094 | ERROR    | extensions.mysqlApi:wrapper:12 - (1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'code":200,"nsr_sbh":"91130133MA0G2F417B","task_id":"901","create_time":"2023-09-\' at line 1')
+2023-09-18 14:18:10.106 | ERROR    | extensions.mysqlApi:wrapper:12 - (1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'code":200,"nsr_sbh":"91130133MA0G2F417B","task_id":"101","create_time":"2023-09-\' at line 1')
+2023-09-18 14:18:10.123 | ERROR    | extensions.mysqlApi:wrapper:12 - (1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'code":200,"nsr_sbh":"91130133MA0G2F417B","task_id":"103","create_time":"2023-09-\' at line 1')
+2023-09-18 14:18:10.136 | ERROR    | extensions.mysqlApi:wrapper:12 - (1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'code":200,"nsr_sbh":"91130133MA0G2F417B","task_id":"101","create_time":"2023-09-\' at line 1')
+2023-09-18 14:18:10.849 | ERROR    | extensions.mysqlApi:wrapper:12 - (2013, 'Lost connection to MySQL server during query ([WinError 10053] 你的主机中的软件中止了一个已建立的连接。)')
+2023-09-18 14:18:11.646 | ERROR    | extensions.mysqlApi:wrapper:12 - (1153, "Got a packet bigger than 'max_allowed_packet' bytes")
+2023-09-18 14:18:12.259 | ERROR    | extensions.mysqlApi:wrapper:12 - (2013, 'Lost connection to MySQL server during query ([WinError 10053] 你的主机中的软件中止了一个已建立的连接。)')
+2023-09-18 14:18:12.853 | ERROR    | extensions.mysqlApi:wrapper:12 - (1153, "Got a packet bigger than 'max_allowed_packet' bytes")
+2023-09-18 14:18:14.021 | ERROR    | extensions.mysqlApi:wrapper:12 - (2006, "MySQL server has gone away (ConnectionAbortedError(10053, '你的主机中的软件中止了一个已建立的连接。', None, 10053, None))")
+2023-09-18 14:18:14.081 | ERROR    | extensions.mysqlApi:wrapper:12 - (1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'code":200,"nsr_sbh":"91130133MA0G2F417B","task_id":"101","create_time":"2023-09-\' at line 1')
+2023-09-18 14:18:14.095 | ERROR    | extensions.mysqlApi:wrapper:12 - (1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'code":200,"nsr_sbh":"91130133MA0G2F417B","task_id":"100","create_time":"2023-09-\' at line 1')
+2023-09-18 14:18:14.112 | ERROR    | extensions.mysqlApi:wrapper:12 - (1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'code":200,"nsr_sbh":"91130133MA0G2F417B","task_id":"103","create_time":"2023-09-\' at line 1')
+2023-09-18 14:18:14.126 | ERROR    | extensions.mysqlApi:wrapper:12 - (1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'code":200,"nsr_sbh":"91130133MA0G2F417B","task_id":"104","create_time":"2023-09-\' at line 1')
+2023-09-18 14:18:14.137 | ERROR    | extensions.mysqlApi:wrapper:12 - (1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'code":200,"nsr_sbh":"91130133MA0G2F417B","task_id":"102","create_time":"2023-09-\' at line 1')
+2023-09-18 14:18:14.155 | ERROR    | extensions.mysqlApi:wrapper:12 - (1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'code":200,"nsr_sbh":"91130133MA0G2F417B","task_id":"101","create_time":"2023-09-\' at line 1')
+2023-09-18 14:20:50.300 | DEBUG    | logs.settings:<module>:14 - 服务器Start.
+2023-09-18 14:20:50.307 | INFO     | extensions.mysqlApi:login:102 - [kafka_data]数据库成功连接
+2023-09-18 14:21:36.110 | ERROR    | extensions.mysqlApi:wrapper:13 - (2006, "MySQL server has gone away (ConnectionAbortedError(10053, '你的主机中的软件中止了一个已建立的连接。', None, 10053, None))")
+2023-09-18 14:21:36.294 | ERROR    | extensions.mysqlApi:wrapper:13 - (1265, "Data truncated for column 'mid' at row 1")
+2023-09-18 14:21:36.307 | ERROR    | extensions.mysqlApi:wrapper:13 - (1265, "Data truncated for column 'mid' at row 1")
+2023-09-18 14:21:36.323 | ERROR    | extensions.mysqlApi:wrapper:13 - (1265, "Data truncated for column 'mid' at row 1")
+2023-09-18 14:21:36.342 | ERROR    | extensions.mysqlApi:wrapper:13 - (1265, "Data truncated for column 'mid' at row 1")
+2023-09-18 14:21:36.358 | ERROR    | extensions.mysqlApi:wrapper:13 - (1265, "Data truncated for column 'mid' at row 1")
+2023-09-18 14:21:36.376 | ERROR    | extensions.mysqlApi:wrapper:13 - (1265, "Data truncated for column 'mid' at row 1")
+2023-09-18 14:21:36.416 | ERROR    | extensions.mysqlApi:wrapper:13 - (1265, "Data truncated for column 'mid' at row 1")
+2023-09-18 14:21:36.498 | ERROR    | extensions.mysqlApi:wrapper:13 - (1265, "Data truncated for column 'mid' at row 1")
+2023-09-18 14:21:36.582 | ERROR    | extensions.mysqlApi:wrapper:13 - (1265, "Data truncated for column 'mid' at row 1")
+2023-09-18 14:21:36.623 | ERROR    | extensions.mysqlApi:wrapper:13 - (1265, "Data truncated for column 'mid' at row 1")
+2023-09-18 14:21:36.829 | ERROR    | extensions.mysqlApi:wrapper:13 - (1265, "Data truncated for column 'mid' at row 1")
+2023-09-18 14:21:36.843 | ERROR    | extensions.mysqlApi:wrapper:13 - (1265, "Data truncated for column 'mid' at row 1")
+2023-09-18 14:21:36.862 | ERROR    | extensions.mysqlApi:wrapper:13 - (1265, "Data truncated for column 'mid' at row 1")
+2023-09-18 14:21:36.875 | ERROR    | extensions.mysqlApi:wrapper:13 - (1265, "Data truncated for column 'mid' at row 1")
+2023-09-18 14:21:36.889 | ERROR    | extensions.mysqlApi:wrapper:13 - (1265, "Data truncated for column 'mid' at row 1")
+2023-09-18 14:21:36.966 | ERROR    | extensions.mysqlApi:wrapper:13 - (1265, "Data truncated for column 'mid' at row 1")
+2023-09-18 14:21:36.997 | ERROR    | extensions.mysqlApi:wrapper:13 - (1265, "Data truncated for column 'mid' at row 1")
+2023-09-18 14:21:37.024 | ERROR    | extensions.mysqlApi:wrapper:13 - (1265, "Data truncated for column 'mid' at row 1")
+2023-09-18 14:21:37.041 | ERROR    | extensions.mysqlApi:wrapper:13 - (1265, "Data truncated for column 'mid' at row 1")
+2023-09-18 14:21:37.053 | ERROR    | extensions.mysqlApi:wrapper:13 - (1265, "Data truncated for column 'mid' at row 1")
+2023-09-18 14:21:37.069 | ERROR    | extensions.mysqlApi:wrapper:13 - (1265, "Data truncated for column 'mid' at row 1")
+2023-09-18 14:21:53.933 | ERROR    | extensions.mysqlApi:wrapper:13 - (2006, "MySQL server has gone away (ConnectionAbortedError(10053, '你的主机中的软件中止了一个已建立的连接。', None, 10053, None))")
+2023-09-18 14:22:13.018 | ERROR    | extensions.mysqlApi:wrapper:13 - (2006, "MySQL server has gone away (ConnectionAbortedError(10053, '你的主机中的软件中止了一个已建立的连接。', None, 10053, None))")
+2023-09-18 14:22:58.343 | DEBUG    | logs.settings:<module>:14 - 服务器Start.
+2023-09-18 14:22:58.349 | INFO     | extensions.mysqlApi:login:102 - [kafka_data]数据库成功连接
+2023-09-18 14:23:04.383 | ERROR    | extensions.mysqlApi:wrapper:13 - (1265, "Data truncated for column 'mid' at row 1")
+2023-09-18 14:23:04.401 | ERROR    | extensions.mysqlApi:wrapper:13 - (1265, "Data truncated for column 'mid' at row 1")
+2023-09-18 14:23:04.418 | ERROR    | extensions.mysqlApi:wrapper:13 - (1265, "Data truncated for column 'mid' at row 1")
+2023-09-18 14:23:04.427 | ERROR    | extensions.mysqlApi:wrapper:13 - (1265, "Data truncated for column 'mid' at row 1")
+2023-09-18 14:23:04.438 | ERROR    | extensions.mysqlApi:wrapper:13 - (1265, "Data truncated for column 'mid' at row 1")
+2023-09-18 14:23:04.474 | ERROR    | extensions.mysqlApi:wrapper:13 - (1265, "Data truncated for column 'mid' at row 1")
+2023-09-18 14:23:25.996 | DEBUG    | logs.settings:<module>:14 - 服务器Start.
+2023-09-18 14:23:26.003 | INFO     | extensions.mysqlApi:login:102 - [kafka_data]数据库成功连接
+2023-09-18 14:24:57.397 | DEBUG    | logs.settings:<module>:14 - 服务器Start.
+2023-09-18 14:24:57.403 | INFO     | extensions.mysqlApi:login:102 - [kafka_data]数据库成功连接
+2023-09-18 14:25:01.438 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:25:01.474 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:25:01.517 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:25:01.571 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:25:01.602 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:25:01.618 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:25:01.702 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:25:01.743 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:25:01.781 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:25:01.817 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:25:02.056 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:25:02.087 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:25:02.114 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:25:02.137 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:25:02.154 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:25:02.227 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:25:02.265 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:25:02.300 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:25:02.361 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:25:02.400 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:25:02.426 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:25:17.956 | ERROR    | extensions.mysqlApi:wrapper:13 - (2006, "MySQL server has gone away (ConnectionAbortedError(10053, '你的主机中的软件中止了一个已建立的连接。', None, 10053, None))")
+2023-09-18 14:25:32.918 | ERROR    | extensions.mysqlApi:wrapper:13 - (2006, "MySQL server has gone away (ConnectionAbortedError(10053, '你的主机中的软件中止了一个已建立的连接。', None, 10053, None))")
+2023-09-18 14:25:48.375 | ERROR    | extensions.mysqlApi:wrapper:13 - (2013, 'Lost connection to MySQL server during query ([WinError 10053] 你的主机中的软件中止了一个已建立的连接。)')
+2023-09-18 14:26:03.042 | ERROR    | extensions.mysqlApi:wrapper:13 - (2006, "MySQL server has gone away (ConnectionAbortedError(10053, '你的主机中的软件中止了一个已建立的连接。', None, 10053, None))")
+2023-09-18 14:26:46.499 | DEBUG    | logs.settings:<module>:14 - 服务器Start.
+2023-09-18 14:26:49.013 | INFO     | extensions.mysqlApi:login:102 - [kafka_data]数据库成功连接
+2023-09-18 14:26:53.555 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:26:53.581 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:26:53.602 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:26:53.622 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:26:53.638 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:26:53.687 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:28:18.699 | DEBUG    | logs.settings:<module>:14 - 服务器Start.
+2023-09-18 14:28:22.331 | INFO     | extensions.mysqlApi:login:102 - [kafka_data]数据库成功连接
+2023-09-18 14:28:30.854 | INFO     | extensions.mysqlApi:login:102 - [kafka_data]数据库成功连接
+2023-09-18 14:30:11.502 | INFO     | extensions.mysqlApi:login:102 - [kafka_data]数据库成功连接
+2023-09-18 14:30:12.128 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:30:12.146 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:30:12.163 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:30:12.179 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:30:12.197 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:30:12.215 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:30:12.231 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:30:12.245 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:30:12.259 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:30:12.274 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:30:12.326 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:30:12.613 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:30:12.646 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:30:12.664 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:30:12.679 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:30:12.701 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:30:12.715 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:30:12.729 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:30:12.744 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:30:12.758 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:30:12.772 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:30:12.785 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:30:13.095 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:30:13.124 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:30:13.138 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:30:13.155 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:30:13.171 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:30:13.185 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:30:13.203 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:30:13.265 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:30:13.330 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:30:13.446 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:30:13.462 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:30:13.896 | INFO     | extensions.mysqlApi:login:102 - [kafka_data]数据库成功连接
+2023-09-18 14:31:28.895 | DEBUG    | logs.settings:<module>:14 - 服务器Start.
+2023-09-18 14:31:33.096 | INFO     | extensions.mysqlApi:login:102 - [kafka_data]数据库成功连接
+2023-09-18 14:31:33.536 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:31:33.592 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:31:33.608 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:31:33.663 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:31:33.704 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:31:33.747 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:31:33.811 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:31:33.859 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:31:33.938 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:31:33.973 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:31:34.001 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:31:34.496 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:31:34.532 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:31:34.545 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:31:34.570 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:31:34.595 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:31:34.624 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:31:34.698 | INFO     | extensions.mysqlApi:login:102 - [kafka_data]数据库成功连接
+2023-09-18 14:31:35.428 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:31:36.188 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:31:36.219 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:31:36.243 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:31:36.271 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:31:36.729 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:31:36.755 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:31:36.795 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:31:36.822 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:31:36.851 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:31:36.880 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:32:24.513 | ERROR    | extensions.mysqlApi:wrapper:13 - (2006, "MySQL server has gone away (ConnectionAbortedError(10053, '你的主机中的软件中止了一个已建立的连接。', None, 10053, None))")
+2023-09-18 14:32:24.697 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:32:24.733 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:32:24.754 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:32:24.779 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:33:12.945 | DEBUG    | logs.settings:<module>:14 - 服务器Start.
+2023-09-18 14:33:18.751 | INFO     | extensions.mysqlApi:login:102 - [kafka_data]数据库成功连接
+2023-09-18 14:33:57.435 | ERROR    | extensions.mysqlApi:wrapper:13 - (2006, "MySQL server has gone away (ConnectionAbortedError(10053, '你的主机中的软件中止了一个已建立的连接。', None, 10053, None))")
+2023-09-18 14:33:57.692 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:33:57.732 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:33:57.755 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:33:57.780 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:33:57.807 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:33:57.877 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:33:57.933 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:33:57.970 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:33:58.008 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:33:58.056 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:33:58.157 | INFO     | extensions.mysqlApi:login:102 - [kafka_data]数据库成功连接
+2023-09-18 14:33:58.170 | INFO     | extensions.mysqlApi:login:102 - [kafka_data]数据库成功连接
+2023-09-18 14:33:58.331 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:33:58.357 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:33:58.399 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:33:58.415 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:33:58.431 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:33:58.500 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:33:58.538 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:33:58.574 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:33:58.610 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:33:58.674 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:33:58.690 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:34:15.464 | ERROR    | extensions.mysqlApi:wrapper:13 - (2006, "MySQL server has gone away (ConnectionAbortedError(10053, '你的主机中的软件中止了一个已建立的连接。', None, 10053, None))")
+2023-09-18 14:34:30.116 | ERROR    | extensions.mysqlApi:wrapper:13 - (2006, "MySQL server has gone away (ConnectionAbortedError(10053, '你的主机中的软件中止了一个已建立的连接。', None, 10053, None))")
+2023-09-18 14:34:43.135 | DEBUG    | logs.settings:<module>:14 - 服务器Start.
+2023-09-18 14:34:44.492 | INFO     | extensions.mysqlApi:login:102 - [kafka_data]数据库成功连接
+2023-09-18 14:35:03.803 | ERROR    | extensions.mysqlApi:wrapper:13 - (2006, "MySQL server has gone away (ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))")
+2023-09-18 14:35:47.021 | ERROR    | extensions.mysqlApi:wrapper:13 - (2006, "MySQL server has gone away (ConnectionAbortedError(10053, '你的主机中的软件中止了一个已建立的连接。', None, 10053, None))")
+2023-09-18 14:35:47.162 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:35:47.209 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:35:47.262 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:35:47.281 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:35:47.303 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:35:47.404 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:35:47.630 | INFO     | extensions.mysqlApi:login:102 - [kafka_data]数据库成功连接
+2023-09-18 14:36:31.859 | ERROR    | extensions.mysqlApi:wrapper:13 - (2006, "MySQL server has gone away (ConnectionAbortedError(10053, '你的主机中的软件中止了一个已建立的连接。', None, 10053, None))")
+2023-09-18 14:36:32.069 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:36:32.120 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:36:32.141 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:36:32.170 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:36:32.188 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:36:32.203 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:36:32.241 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:36:32.315 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:36:32.356 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:36:32.397 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:36:32.616 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:36:32.658 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:36:32.684 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:36:32.699 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:36:32.734 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:36:32.802 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:36:32.836 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:36:32.864 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:36:32.880 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:36:32.892 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:36:32.905 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:36:48.263 | ERROR    | extensions.mysqlApi:wrapper:13 - (2006, "MySQL server has gone away (ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))")
+2023-09-18 14:37:03.000 | ERROR    | extensions.mysqlApi:wrapper:13 - (2006, "MySQL server has gone away (ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))")
+2023-09-18 14:37:18.124 | ERROR    | extensions.mysqlApi:wrapper:13 - (2006, "MySQL server has gone away (ConnectionAbortedError(10053, '你的主机中的软件中止了一个已建立的连接。', None, 10053, None))")
+2023-09-18 14:37:34.822 | ERROR    | extensions.mysqlApi:wrapper:13 - (2006, "MySQL server has gone away (ConnectionAbortedError(10053, '你的主机中的软件中止了一个已建立的连接。', None, 10053, None))")
+2023-09-18 14:38:55.772 | DEBUG    | logs.settings:<module>:14 - 服务器Start.
+2023-09-18 14:39:17.292 | INFO     | extensions.mysqlApi:login:102 - [kafka_data]数据库成功连接
+2023-09-18 14:40:05.960 | INFO     | extensions.mysqlApi:login:102 - [kafka_data]数据库成功连接
+2023-09-18 14:40:06.999 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:40:07.019 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:40:07.046 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:40:07.077 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:40:07.099 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:40:07.173 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:40:07.218 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:40:07.275 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:40:07.323 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:40:07.366 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:40:07.593 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:40:07.626 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:40:07.652 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:40:07.676 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:40:07.694 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:40:07.832 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:40:07.900 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:40:08.008 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:40:08.061 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:40:08.117 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:40:08.183 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:40:30.976 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:40:53.554 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:41:10.157 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:41:27.946 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:42:05.552 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:42:06.253 | INFO     | extensions.mysqlApi:login:102 - [kafka_data]数据库成功连接
+2023-09-18 14:42:06.353 | INFO     | extensions.mysqlApi:login:102 - [kafka_data]数据库成功连接
+2023-09-18 14:42:06.613 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:42:06.645 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:42:06.677 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:42:06.732 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:42:06.749 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:42:06.794 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:42:16.850 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:42:22.431 | INFO     | extensions.mysqlApi:login:102 - [kafka_data]数据库成功连接
+2023-09-18 14:42:24.318 | INFO     | extensions.mysqlApi:login:102 - [kafka_data]数据库成功连接
+2023-09-18 14:42:30.847 | INFO     | extensions.mysqlApi:login:102 - [kafka_data]数据库成功连接
+2023-09-18 14:42:30.997 | INFO     | extensions.mysqlApi:login:102 - [kafka_data]数据库成功连接
+2023-09-18 14:42:31.157 | INFO     | extensions.mysqlApi:login:102 - [kafka_data]数据库成功连接
+2023-09-18 14:42:31.303 | INFO     | extensions.mysqlApi:login:102 - [kafka_data]数据库成功连接
+2023-09-18 14:42:31.523 | INFO     | extensions.mysqlApi:login:102 - [kafka_data]数据库成功连接
+2023-09-18 14:42:31.820 | INFO     | extensions.mysqlApi:login:102 - [kafka_data]数据库成功连接
+2023-09-18 14:42:31.988 | INFO     | extensions.mysqlApi:login:102 - [kafka_data]数据库成功连接
+2023-09-18 14:42:32.320 | INFO     | extensions.mysqlApi:login:102 - [kafka_data]数据库成功连接
+2023-09-18 14:42:32.558 | INFO     | extensions.mysqlApi:login:102 - [kafka_data]数据库成功连接
+2023-09-18 14:42:32.695 | INFO     | extensions.mysqlApi:login:102 - [kafka_data]数据库成功连接
+2023-09-18 14:42:32.864 | INFO     | extensions.mysqlApi:login:102 - [kafka_data]数据库成功连接
+2023-09-18 14:42:33.378 | INFO     | extensions.mysqlApi:login:102 - [kafka_data]数据库成功连接
+2023-09-18 14:42:33.429 | INFO     | extensions.mysqlApi:login:102 - [kafka_data]数据库成功连接
+2023-09-18 14:42:33.591 | INFO     | extensions.mysqlApi:login:102 - [kafka_data]数据库成功连接
+2023-09-18 14:42:33.810 | INFO     | extensions.mysqlApi:login:102 - [kafka_data]数据库成功连接
+2023-09-18 14:42:34.056 | INFO     | extensions.mysqlApi:login:102 - [kafka_data]数据库成功连接
+2023-09-18 14:42:34.473 | INFO     | extensions.mysqlApi:login:102 - [kafka_data]数据库成功连接
+2023-09-18 14:42:40.551 | INFO     | extensions.mysqlApi:login:102 - [kafka_data]数据库成功连接
+2023-09-18 14:42:57.100 | INFO     | extensions.mysqlApi:login:102 - [kafka_data]数据库成功连接
+2023-09-18 14:42:58.429 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:42:58.465 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:42:58.499 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:42:58.606 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:42:58.816 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:42:58.845 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:42:58.869 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:42:58.903 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:42:58.932 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:42:58.971 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:42:59.004 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:42:59.043 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:42:59.082 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:42:59.113 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:42:59.148 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:42:59.206 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:42:59.267 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:42:59.311 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:42:59.345 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:42:59.373 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:42:59.440 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:42:59.475 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:42:59.505 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:43:18.754 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:43:36.550 | INFO     | extensions.mysqlApi:login:102 - [kafka_data]数据库成功连接
+2023-09-18 14:43:53.061 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:43:54.049 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:44:09.871 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:44:09.995 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:44:10.015 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:44:10.028 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:44:10.046 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:44:10.063 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:44:10.129 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:44:10.184 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:44:10.197 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:44:10.237 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:44:10.249 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:44:10.282 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:44:10.314 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:44:10.351 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:44:10.373 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:44:10.410 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:44:10.813 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:44:10.832 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:44:10.848 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:44:10.869 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:44:10.882 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:44:10.904 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:44:10.919 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:44:10.936 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:44:10.955 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:44:10.978 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:44:10.998 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:44:11.014 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:44:11.030 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:44:11.079 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:44:11.172 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:44:11.234 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:44:11.261 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:44:11.334 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:44:11.375 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:44:11.634 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:44:11.641 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:44:11.697 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:44:11.724 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:44:11.750 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:44:11.785 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:44:11.906 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:44:11.958 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:44:12.010 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:44:12.091 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:44:53.908 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:44:56.993 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:45:28.424 | INFO     | extensions.mysqlApi:login:102 - [kafka_data]数据库成功连接
+2023-09-18 14:52:44.481 | DEBUG    | logs.settings:<module>:14 - 服务器Start.
+2023-09-18 14:52:54.039 | INFO     | extensions.mysqlApi:login:102 - [kafka_data]数据库成功连接
+2023-09-18 14:53:37.077 | INFO     | extensions.mysqlApi:login:102 - [kafka_data]数据库成功连接
+2023-09-18 14:53:38.024 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:53:38.044 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:53:38.067 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:53:38.095 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:53:38.128 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:53:38.141 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:53:38.457 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:53:38.499 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:53:38.545 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:53:38.615 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:53:38.855 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:53:38.916 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:53:38.977 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:53:39.035 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:53:39.171 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:53:39.250 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:53:39.315 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:53:39.374 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:53:39.408 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:53:39.433 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:53:39.485 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:53:39.848 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:53:56.079 | INFO     | extensions.mysqlApi:login:102 - [kafka_data]数据库成功连接
+2023-09-18 14:54:12.527 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:54:30.943 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:54:46.054 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:55:27.755 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:55:28.631 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:55:28.996 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:55:29.067 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:55:29.121 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:55:29.136 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:55:29.237 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 14:55:47.130 | DEBUG    | logs.settings:<module>:14 - 服务器Start.
+2023-09-18 14:58:28.192 | INFO     | extensions.mysqlApi:login:102 - [kafka_data]数据库成功连接
+2023-09-18 14:58:35.255 | INFO     | extensions.mysqlApi:login:102 - [kafka_data]数据库成功连接
+2023-09-18 14:59:14.163 | INFO     | extensions.mysqlApi:login:102 - [kafka_data]数据库成功连接
+2023-09-18 14:59:16.682 | INFO     | extensions.mysqlApi:login:102 - [kafka_data]数据库成功连接
+2023-09-18 15:00:42.262 | DEBUG    | logs.settings:<module>:14 - 服务器Start.
+2023-09-18 15:00:48.734 | INFO     | extensions.mysqlApi:login:102 - [kafka_data]数据库成功连接
+2023-09-18 15:01:25.735 | INFO     | extensions.mysqlApi:login:102 - [kafka_data]数据库成功连接
+2023-09-18 15:01:26.833 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 15:01:26.890 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 15:01:26.951 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 15:01:27.033 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 15:01:27.080 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 15:01:27.128 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 15:01:27.245 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 15:01:27.303 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 15:01:27.351 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 15:01:27.399 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 15:01:27.653 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 15:01:27.739 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 15:01:27.795 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 15:01:27.846 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 15:01:27.900 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 15:01:28.226 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 15:01:28.304 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 15:01:28.379 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 15:01:28.408 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 15:01:28.437 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 15:01:28.453 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 15:01:46.087 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 15:01:47.114 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 15:02:04.364 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 15:02:27.249 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 15:02:47.690 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 15:06:10.234 | DEBUG    | logs.settings:<module>:14 - 服务器Start.
+2023-09-18 15:06:17.286 | INFO     | extensions.mysqlApi:login:102 - [kafka_data]数据库成功连接
+2023-09-18 15:06:56.413 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 15:06:56.457 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 15:06:56.457 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 15:06:56.494 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 15:06:56.595 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 15:06:56.596 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 15:06:56.597 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 15:06:56.598 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 15:06:56.598 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 15:06:56.599 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 15:06:56.783 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 15:06:56.816 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 15:06:56.831 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 15:06:56.843 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 15:06:56.897 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 15:06:56.965 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 15:06:56.968 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 15:06:56.970 | INFO     | extensions.mysqlApi:login:102 - [kafka_data]数据库成功连接
+2023-09-18 15:06:56.983 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 15:06:56.987 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 15:06:56.992 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 15:06:56.995 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 15:06:57.086 | INFO     | extensions.mysqlApi:login:102 - [kafka_data]数据库成功连接
+2023-09-18 15:06:57.090 | INFO     | extensions.mysqlApi:login:102 - [kafka_data]数据库成功连接
+2023-09-18 15:07:11.931 | INFO     | extensions.mysqlApi:login:102 - 数据成功插入: 0
+2023-09-18 15:16:53.867 | DEBUG    | logs.settings:<module>:14 - 服务器Start.
+2023-09-18 15:17:04.399 | INFO     | views.kafka.api.api:Topic_model:144 - 'str' object has no attribute 'decode'
+2023-09-18 15:17:08.387 | INFO     | views.kafka.api.api:Topic_model:144 - 'str' object has no attribute 'decode'
+2023-09-18 15:18:04.498 | DEBUG    | logs.settings:<module>:14 - 服务器Start.
+2023-09-18 15:19:26.619 | DEBUG    | logs.settings:<module>:14 - 服务器Start.
+2023-09-18 15:20:19.293 | DEBUG    | logs.settings:<module>:14 - 服务器Start.
