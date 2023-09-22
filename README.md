@@ -1,10 +1,16 @@
 # Kafka Web 可视化数据查询
 
+| GitHub | 作者 |
+| - | - |
+| [GitHub](https://github.com/peng0928/KafkaWeb) | [Penr](https://github.com/peng0928) |
+ 
+
+
 #### 介绍
 
 > 1. 实时监控和统计数据
 > 2. 创建、管理和查看主题
-> 3. 支持 topic 名称的搜索、topic 的搜索（默认支持 topic 数据的前 200 字符~后 200 字符）
+> 3. 支持 topic 名称的搜索、topic 数据的搜索（默认支持数据的前 200 字符~后 200 字符）
 
 #### 软件架构
 
